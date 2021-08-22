@@ -1,0 +1,6 @@
+---
+title: "Switch to specific window in kde"
+date: 2021-08-22T22:04:51+08:00
+draft: false
+---
+* as you know
