@@ -5,7 +5,6 @@ draft: false
 tags:
  - linux
  - kde
-
 ---
 Everyone who has overheared =linux= knows it is a really brilliant system which enable people to taste their own rice. *And* even, =kde= makes it even awesome given it provides a much more comprehensive opportunities to make it what they like.
 * Origin

@@ -1,0 +1,35 @@
+---
+title: "Some tips about kde global shortkeys"
+date: 2021-08-23T21:11:59+08:00
+draft: false
+tags:
+ - linux
+ - kde
+---
+* Origin
+Today I bound a global shortkey for configuring =deepin-screenshot= and =picgo-core= but somehow it crashed though it works well in my terminal.I don't know why,and it's my =fish= / =bash= script.
+#+begin_src fish
+deepin-screenshot -s /tmp/screenshot.png -n
+picgo u /tmp/screenshot.png > /tmp/screenshot.txt
+tail -n 1 /tmp/screenshot.txt | xargs echo -n | xclip -selection clipboard # for that picgo's plugin autocopy would add line break
+notify-send -a screenshot_uploader -u low "screenshot has been uploaded,and link is copyed" # need to install libnotify
+#+end_src
+* Hack
+For sure where errors occured,I have used =2>file= . e.g.
+#+begin_src bash
+picgo u /tmp//screenshot.png 2> /tmp/error.txt
+#+end_src
+* Trouble Source
+kde global shortkey bending for =command= or =url= not support symbol file,though you use a =bash= client or the other client(such as =fish= , =python= ...) to execute it.
+So next time I will be even more cautious about it.
+* Solution
+#+begin_quote
+I only changed the second line
+#+end_quote
+
+#+begin_src fish
+deepin-screenshot -s /tmp/screenshot.png -n
+/home/zarkli/.nvm/versions/node/v16.6.0/bin/node /home/zarkli/.nvm/versions/node/v16.6.0/lib/node_modules/picgo/bin/picgo u /tmp/screenshot.png > /tmp/screenshot.txt
+tail -n 1 /tmp/screenshot.txt | xargs echo -n | xclip -selection clipboard # for that picgo's plugin autocopy would add line break
+notify-send -a screenshot_uploader -u low "screenshot has been uploaded,and link is copyed" # need to install libnotify
+#+end_src
