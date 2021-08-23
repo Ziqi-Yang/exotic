@@ -6,7 +6,7 @@ tags:
  - linux
  - kde
 ---
-Everyone who has overheared =linux= knows it is a really brilliant system which enable people to taste their own rice.*And* even, =kde= makes it even awesome given it provides a much more comprehensive opportunities to make it what they like.
+Everyone who has overheared =linux= knows it is a really brilliant system which enable people to taste their own rice. *And* even, =kde= makes it even awesome given it provides a much more comprehensive opportunities to make it what they like.
 * Origin
 I am a =emacs= user , and i have already made a shortkey(=M-e=) to launch emacs.
 But as time went by, i found it could be a bit of unbearable to swich window when my frontview is crowded with windows.Just as i apply the shortkey(=M-e=), the second emacs appliance occured.That wasn't what i want,and it makes it even worse.So i was crazy about finding a way to swich the frontview to specific window.
