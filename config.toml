@@ -1,7 +1,7 @@
-baseURL = "http://localhost:1313/"
-languageCode = "zh-cn"
-defaultContentLanguage = "zh-cn"                             # en / zh-cn / ... (This field determines which i18n file to use)
-title = "Extic/异域"
+baseURL = "https://blog.zps1.cn"
+languageCode = "en"
+defaultContentLanguage = "en"                             # en / zh-cn / ... (This field determines which i18n file to use)
+title = "Extic"
 preserveTaxonomyNames = true
 enableRobotsTXT = true
 enableEmoji = true
@@ -29,17 +29,17 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
   filename = "sitemap.xml"
 
 [[menu.main]]             # config your menu              # 配置目录
-  name = "主页"
+  name = "Home"
   weight = 10
   identifier = "home"
   url = "/"
 [[menu.main]]
-  name = "文章"
+  name = "archives"
   weight = 20
   identifier = "archives"
   url = "/post/"
 [[menu.main]]
-  name = "标签"
+  name = "tags"
   weight = 30
   identifier = "tags"
   url = "/tags/"
