@@ -12,6 +12,7 @@ Everyone who has overheared =linux= knows it is a really brilliant system which 
 I am a =emacs= user , and i have already made a shortkey(=M-e=) to launch emacs.
 But as time went by, i found it could be a bit of unbearable to swich window when my frontview is crowded with windows.Just as i apply the shortkey(=M-e=), the second emacs appliance occured.That wasn't what i want,and it makes it even worse.So i was crazy about finding a way to swich the frontview to specific window.
 * Hack
+1)
 [[https://i.loli.net/2021/08/23/Pj8hx9NnRptgeXU.png]]
-[[https://i.loli.net/2021/08/23/6ifOY1xrN4IjbqA.png]]
+2)
 [[https://i.loli.net/2021/08/23/6ifOY1xrN4IjbqA.png]]
