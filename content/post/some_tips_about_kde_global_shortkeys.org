@@ -19,7 +19,7 @@ For sure where errors occured,I have used =2>file= . e.g.
 #+begin_src bash
 picgo u /tmp//screenshot.png 2> /tmp/error.txt
 #+end_src
-* Trouble Source
+* Trouble Shotting
 kde global shortkey bending for =command= or =url= not support symbol file,though you use a =bash= client or the other client(such as =fish= , =python= ...) to execute it.
 So next time I will be even more cautious about it.
 * Solution

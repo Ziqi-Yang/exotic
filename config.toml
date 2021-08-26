@@ -159,7 +159,7 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
     notify = false  # mail notifier , https://github.com/xCss/Valine/wiki
     verify = false # Verification code
     avatar = 'mm'
-    placeholder = '说点什么吧...'
+    placeholder = 'Talk wildly,simle happily...'
     visitor = false
 
   [params.flowchartDiagrams]# see https://blog.olowolo.com/example-site/post/js-flowchart-diagrams/
@@ -171,7 +171,7 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
     options = ""            # default: "{theme: 'simple'}"
 
   [params.busuanzi]         # count web traffic by busuanzi                             # 是否使用不蒜子统计站点访问量
-    enable = false
+    enable = true
     siteUV = true
     sitePV = true
     pagePV = true
@@ -182,7 +182,7 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
     alipay = "/mine/images/money/alipay.webp"           # 支付宝二维码
 
   [params.social]                                         # 社交链接
-    a-email = "mailto:ziqi-yang@gmail.com"
+    a-email = "mailto:mr.ziqiyang@gmail.com"
     b-stack-overflow = "https://stackoverflow.com/users/16370777/zarkli"
     c-twitter = "https://twitter.com/LeonardoZarkli"
     # d-facebook = "http://localhost:1313"
