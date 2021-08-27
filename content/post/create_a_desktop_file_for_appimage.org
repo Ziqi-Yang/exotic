@@ -1,0 +1,17 @@
+---
+title: "Create a desktop file for appimage"
+date: 2021-08-27T18:53:57+08:00
+draft: true
+---
+* Solution
+the vary section of the =hack= is to extract the icon file,which could be solved by the command:
+#+begin_src shell
+xxxx.appimage --appimage-extract
+#+end_src
+* other tips
+you could use the command below to see useful tips
+#+begin_src shell
+xxxx.appimage --appimage-help
+#+end_src
+* forward reading
+[[https://github.com/AppImage/AppImageKit][AppimageKit]]
