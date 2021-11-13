@@ -2,6 +2,8 @@
 title: "Create a desktop file for appimage"
 date: 2021-08-27T18:53:57+08:00
 draft: false
+tags:
+    - linux
 ---
 * Solution
 the vary section of the =hack= is to extract the icon file,which could be solved by the command:
