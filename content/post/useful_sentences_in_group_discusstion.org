@@ -9,7 +9,7 @@ tags:
 
 * Useful_sentences_in_group_discusstion
 |---------------------------------------------------+-------------------------------------------------|
-| Advantages                                        | Disadvantages                                   |
+| =Advantages=                                      | =Disadvantages=                                 |
 |---------------------------------------------------+-------------------------------------------------|
 | Some of the positive aspects of X are...          | Some of the negative aspects of X are...        |
 | An important/obvious benefit of X is...           | An important/obvious drawback of X is...        |
