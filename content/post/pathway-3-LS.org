@@ -1,5 +1,5 @@
 ---
-title: "Pathway 3 Words"
+title: "Pathway 3 LS Words"
 date: 2021-11-12T18:53:57+08:00
 draft: false
 tags:
