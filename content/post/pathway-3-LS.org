@@ -77,3 +77,18 @@ tags:
 | fermentation | lactation | preventative   | radical    | undergo   |
 | mechanism    | serve     | corresponding  | nerves     | muscles   |
 | transmit     |           |                |            |           |
+** unit 9
+| column 1      | column 2     | column 3      | column 4   | column 5      |
+|---------------+--------------+---------------+------------+---------------|
+| collaboration | civilization | curiosity     | excavation | participation |
+| proposes      | remains      | specialist    | uncover    | virtually     |
+| carve         | landmark     | sophisticated | theory     | conquer       |
+| lower         | surface      | tomb          | device     | artifact      |
+| settlements   | satellites   | scan          |            |               |
+** unit 10
+| column 1   | column 2  | column 3 | column 4      | column 5    |
+|------------+-----------+----------+---------------+-------------|
+| expression | universal | results  | confirm       | trigger     |
+| make sense | react     | tendency | instinctively | personality |
+| introvert  | extrovert | awkward  | anxiety       | differ      |
+| thrive     | outgoing  | upset    | lack          | lead to     |
