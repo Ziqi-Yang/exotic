@@ -8,8 +8,6 @@ tags:
     - jetbrains
 ---
 
-# Slove jetbrains  JAVA OPTIONS problem
-
 The problem looks:
 ![problem](https://s2.loli.net/2021/12/15/VhkMgGXxwAF37Ca.png)
 
@@ -19,7 +17,7 @@ to solve this problem, we only need to modify its `desktop` file(e.g. `DataSpell
 [Desktop Entry]
 Name=DataSpell
 Comment=DataSpell-2021-03
-Exec=unset  JAVA OPTIONS; /home/zarkli/Public/dataspell/bin/dataspell.sh
+Exec=unset _JAVA_OPTIONS; /home/zarkli/Public/dataspell/bin/dataspell.sh
 Icon=/home/zarkli/Public/dataspell/bin/dataspell.png
 Terminal=false
 Type=Application
