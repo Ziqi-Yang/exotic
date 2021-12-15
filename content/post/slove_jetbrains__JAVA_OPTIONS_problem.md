@@ -1,5 +1,5 @@
 ---
-title: "Slove jetbrains _JAVA_OPTIONS problem"
+title: "Slove jetbrains JAVA_OPTIONS problem"
 date: 2021-12-15T14:17:23+08:00
 draft: false
 tags:
