@@ -21,12 +21,12 @@ mainly:
 gpg --full-generate-key # It's fine to using default value
 ```
 ## List key
-```bash
+```fish
 gpg --list-secret-key
 gpg --list-public-key
 ```
 the `result` may look like:
-```bash 
+```fish
 ┌──(zarkli㉿kali)-<Saber>-[~/test]
 └─$ gpg --list-public-keys
 /home/zarkli/.gnupg/pubring.kbx
@@ -44,13 +44,13 @@ Where `661D1790DF31028BEA5CB2987B472490023BA0D6` is the `id`
 ## Encrypt
 
 For instance, `file` -> `file.gpg`
-```shell
+```fish
 gpg --encrypt --output file.gpg --recipient user@example.com file
 ```
 
 ## Decrypt
 assume we have got a `gpg` file, we'd like to change it into original file
-```shell
+```fish
 gpg --decrypt --output file file.gpg
 ```
 
@@ -58,7 +58,7 @@ gpg --decrypt --output file file.gpg
 
 ## Send
 
-```bash
+```fish
 gpg --output key.gpg --export id
 ```
 where `id` can be found by `gpg --list-public-keys` command.
@@ -69,13 +69,13 @@ We need to not only `import` it, but `signature` it to trust it.
 
 ### import
 
-```bash
+```fish
 gpg --import key.gpg
 ```
 
 ### signature
 
-```bash
+```fish
 gpg --edit-key-id # will go into a sub shell
 # sub shell look like:
 # .....
