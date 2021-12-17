@@ -10,4 +10,6 @@ tags:
 ```fish
 complete -f -c blog -a "(ls /home/zarkli/Documents/blog/exotic/content/post)"
 ```
+
+![demo](https://s2.loli.net/2021/12/17/VtkjurgdsCKA8Ta.png)
 for more help, using command `help complete`
