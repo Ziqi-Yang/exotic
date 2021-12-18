@@ -1,0 +1,130 @@
+---
+title: "Pathway 3 RW"
+date: 2021-12-15T14:17:23+08:00
+draft: false
+tags:
+    - english
+    - study
+hiddenFromHomePage: true
+comment: false
+---
+
+* unit 1
+| column 1         | column 2      | column 3   | column 4          | column 5    |
+|------------------+---------------+------------+-------------------+-------------|
+| aggressive       | criticize     | conflict   | motivation        | ambitious   |
+| behaviour        | status        | care for   | treat             | interact    |
+| observed         | generally     | establish  | previously        | extended    |
+| social structure | gender        | intense    | discipline        | replace     |
+| likewise         | in contrast   | whereas    | commit            | jungle      |
+| primate          | primatologist | specialist | corporate         | mediator    |
+| versus           | aggression    | aggressive | chimp(chimpanzee) | strategy    |
+| rival            | individual    | contact    | individual        | intimidate  |
+| pound            | ape           | chase away | convince(v.)      | indentify   |
+| groom            | cunning       | ambitious  | alliance          | claim       |
+| do one's favor   | function      | gorilla    | illegal           | ivory       |
+| ivory tusk       | poacher       | profit     | smuggle           | span        |
+| disrupt          | orphan        | slaughter  | caretaker         | maternal    |
+| reintroduction   | narrator      | poach      | rountine          | extend      |
+| coyotes          | regardless    | shed       | fur               | extreme     |
+| subheading       | in contrast   | perceive   | hierarchy         | hierarchies |
+| occur            | pecking order | gelada     | offspring         | graze       |
+| in captivity     | demostrate    | sticks     | mimicked          | neat        |
+| evolve           | layer         | feather    | harmony           | matriarchal |
+| whereas          | bushy manes   | mutually   | tamer             | sheltered   |
+| tendency         | potential     | label      |                   |             |
+* unit 2
+| column 1   | column 2    | column 3       | column 4    | column 5    |
+|------------+-------------+----------------+-------------+-------------|
+| determine  | suspect     | examine        | reveal      | mysteries   |
+| heal       | analysis    | detectives     | prove       | identity    |
+| obtain     | moreover    | unclear        | mention     | suffer from |
+| carry out  | sample      | archeologist   | combination | molecule    |
+| unique     | distinctive | identification | ancestry    | necessarily |
+| positively | leech       | rob            | investigate | admit       |
+| commit     | conviction  | pager          | forensic    | geneticist  |
+| collide    | reveal      | pharaoh        | coffin      | fetus       |
+| fracture   | infectious  |                |             |             |
+* unit 3
+| column 1   | column 2  | column 3    | column 4      | column 5     |
+|------------+-----------+-------------+---------------+--------------|
+| urban      | dense     | growth      | suburb        | productive   |
+| income     | aspect    | tend to     | concentration | spread out   |
+| attempt    | basically | consumption | enhance       | increasingly |
+| industrial | majority  | safety      | phenomenon    | varied       |
+| congestion | slum      | sewer       | institute     | sprawl       |
+| sprawls    | wreck     | infographic | cement        | revise       |
+| reserve    | flock     | utilize     | cotton        | observatory  |
+| bulldozer  | renewal   | interactive | restate       | bay          |
+| renovate   |           |             |               |              |
+* unit 4
+| column 1 | column 2   | column 3    | column 4   | column 5 |
+|----------+------------+-------------+------------+----------|
+| hazard   | throughout | disaster    | deadly     | forecast |
+| alert    | get out    | effectively | affordable | disaster |
+| alert    | hazard     | destruction | accumulate | collapse |
+| entire   | crack      | eruption    | explode    | threaten |
+| pressure | continuous | vast        |            |          |
+* unit 5
+| column 1    | column 2    | column 3      | column 4  | column 5                     |
+|-------------+-------------+---------------+-----------+------------------------------|
+| in term of  | mass        | echonomy      | maintain  | distinctive                  |
+| alternative | partnership | preserve      | necessary | sustainable                  |
+| harmful     | geotourism  | earn a living | sustain   | gain a broader understanding |
+| heritage    | aesthetics  | vulnerable    | scale     | ingredient                   |
+| aquarium    | cannery     | sanctuary     | objective | comfort                      |
+| renewable   | ecological  | awareness     | landmarks | spiritual                    |
+| enriching   | offical     | ecolodge      | glacier   | tortoise                     |
+| vital       |             |               |           |                              |
+* unit 6
+| column 1     | column 2    | column 3      | column 4     | column 5         |
+|--------------+-------------+---------------+--------------+------------------|
+| convey       | interpret   | stand out     | objective    | deliberately     |
+| vision       | misleading  | downside      | neural       | faulty           |
+| infographic  | globe       | millisecond   | cause-effect | at the peak of   |
+| decline      | correlation | scale         | illustrate   | vertical axis    |
+| prevalent    | cognitive   | visualization | spontaneous  | textual          |
+| faulty       | pitfall     | valid         | overlapping  | semi-transparent |
+| enlightening | connotation | deficit       | subtle       | rounded          |
+| typography   | typeface    | orientation   | blade        | compress         |
+| nevertheless | speculate   |               |              |                  |
+* unit 7
+| column 1      | column 2    | column 3    | column 4      | column 5    |
+|---------------+-------------+-------------+---------------+-------------|
+| be related to | worldwide   | currently   | crucial       | generate    |
+| shrink        | vanish      | exceptional | practical     | focusing on |
+| unchecked     | cut down on | emit        | major         | regulate    |
+| limited       | consume     | exhausting  | convert       | reduction   |
+| invest        | capita      | indigenous  | hasten        | galvanize   |
+| at stake      | immune      | tropical    | extratropical | convective  |
+| tsunami       | appetite    | flu         | landfill      | cut down on |
+| turbines      |             |             |               |             |
+* unit 8
+| column 1        | column 2      | column 3       | column 4     | column 5              |
+|-----------------+---------------+----------------+--------------+-----------------------|
+| anesthetize     | pioneer       | bionic         | manual       | concept               |
+| method          | delivery room | column         | elaborate    | fountain              |
+| terrace         | forceps       | manages to     | contraction  | amputate              |
+| at the hight of | civilization  | existing       | compile      | spinal                |
+| amputation      | bladder       | spread         | catgut       | dissolve              |
+| legacy          | take place    | artificial     | replacement  | seek                  |
+| experimental    | inventive     | breakthough    | decline      | survival              |
+| reject          | regenerative  | nanotechnology | limb         | kidney                |
+| donor           | transplant    | jawbone        | spina bifida | vessel                |
+| cultured        | scaffold      | detergent      | incubate     | bioreactor            |
+| nutrients       | implant       | functioning    | nanometer    | to put it another way |
+| beard           | razor         | silica         | reattach     | artery                |
+| stitches        | leak          | tumor          | infrared     | laser                 |
+| laboratory      |               |                |              |                       |
+* unit 9
+| column 1   | column 2         | column 3   | column 4     | column 5     |
+|------------+------------------+------------+--------------+--------------|
+| linguist   | linguistic       | constitute | considerably | acquiring    |
+| lead to    | competence       | native     | furthermore  | expand       |
+| acquire    | emerge           | authored   | demographics | dynamism     |
+| scale      | literature(文献) | anticipate | complacent   | combined     |
+| critically | died out         | express    | rate         | roughly      |
+| highly     | political        | rapidly    | perspective  | distribution |
+| estimate   | dominate         | glovalize  | invention    | desert       |
+* unit 10
+to be supplemented...
