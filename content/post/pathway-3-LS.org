@@ -1,11 +1,12 @@
 ---
-title: "Slove jetbrains JAVA OPTIONS problem"
+title: "Pathway 3 LS"
 date: 2021-12-15T14:17:23+08:00
 draft: false
 tags:
     - english
     - study
 hiddenFromHomePage: true
+comment: false
 ---
 
 ** unit 1
