@@ -57,6 +57,6 @@ for (let i =0; i < tds.length; i ++){
       element.style.backgroundColor = color
       hltTd.splice(element.dataset.index,1,CMAP[color])
       console.log(hltTd)
-      setCookie("hltTd",'[' + hltTd.toString() + ']',30)
+      setCookie("hltTd",'[' + hltTd.toString() + ']',1800)
     })
 }
