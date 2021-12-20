@@ -1,0 +1,47 @@
+.pronounce {
+    font-family: Arial,sans-serif;
+    font-size: 0.6em;
+    color: #000;
+    font-weight: bold;
+    line-height: 2em;
+}
+
+.pronounce span{
+    word-break: break-all;
+    margin: 0 1em 0 1em;
+    color: #666;
+    display: inline-block;
+}
+
+.trans-container{
+    font-size: 0.6em;
+    font-family: Arial,sans-serif;
+    line-height: 2em;
+    padding: 0;
+    color: #000;
+}
+
+.trans-container ul{
+    color: #000;
+    margin: 0.5em 0 0 0.3em;
+    padding: 0;
+    list-style: none;
+}
+
+.trans-container li{
+    font-weight: bold;
+    color: #434343;
+}
+.trans-container p{
+    margin: 0;
+    color: #959595;
+    line-height: 2em;
+}
+
+.transDetails {
+    font-size: 0.6em;
+    font-family: Arial,sans-serif;
+    line-height: 2em;
+    padding: 0;
+    color: #856d72;
+}

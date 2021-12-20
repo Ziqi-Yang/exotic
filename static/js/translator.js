@@ -116,7 +116,9 @@ showTrans = (element,data) => {
     prompt.innerHTML += `<div class="pronounce">${pronounce}</div><div class="trans-container">${trans_container}</div>`
   }
   prompt.innerHTML += `<a class="transDetails" href="https://dict.youdao.com/search?q=${data["query"]}&keyfrom=new-fanyi.smartResult" target="blank"> >>>more details </a>`
-  prompt.innerHTML = `<td colspan="4">${prompt.innerHTML}</td>`
+
+  colspan = element.parentNode.childElementCount
+  prompt.innerHTML = `<td colspan="${colspan}">${prompt.innerHTML}</td>`
 
   prompt.width = element.parentNode.clientWidth
   insertAfter(prompt,element.parentNode)
