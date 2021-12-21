@@ -24,9 +24,6 @@ jobs:
       - name: build
         run: hugo --minify
 
-      - name: wechat-site-file
-        run: cp ae779b48da8f8c6113b5174b064ba94d.txt ./public/
-
       - name: delpoy
         uses: TencentCloudBase/cloudbase-action@v1.1.1
         with:
