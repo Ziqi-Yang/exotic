@@ -27,7 +27,7 @@ draft: false
 ```python
 # 本例的目的就是为了说 x in df[..] 是不对的
 # 要用 x in list(df[...])
-# datas = [df_0,df_1,df_2]
+# datas = [df 0,df 1,df 2]
 sharedKeys = [key for key in datas[0].index if all(map(lambda x: key in list(x.index),datas))]
 ```
 
@@ -43,7 +43,7 @@ dframe.duplicated()
 
 ```python
 #删除重复行，该函数返回的是删除重复行后的DataFrame对象
-dframe.drop_duplicates()
+dframe.drop duplicates()
 ```
 
 - 仅返回index
@@ -60,10 +60,10 @@ print (df)
 ```python
 df1 = (df.groupby(df.columns.tolist())
        .apply(lambda x: tuple(x.index))
-       .reset_index(name='idx'))
+       .reset index(name='idx'))
 print (df1)
 
-#    param_a  param_b  param_c     idx
+#    param a  param b  param c     idx
 # 0        0        0        0  (1, 6)
 # 1        0        2        1  (2, 4)
 # 2        2        1        1  (3, 5)
@@ -95,12 +95,12 @@ df.head(5)
 
 - 法一 `pivot`方法
 ```python
-df.pivot("LOCATION","TIME","Value").rename_axis(columns=None)
+df.pivot("LOCATION","TIME","Value").rename axis(columns=None)
 ```
 
 - 法二 具有多index的array的`unstack`方法
 ```python
-df.set_index(["Country","TIME"])["Value"].unstack()
+df.set index(["Country","TIME"])["Value"].unstack()
 ```
 
 ## 一行生成多行
@@ -132,8 +132,8 @@ df.set_index(["Country","TIME"])["Value"].unstack()
 (第二步的`stack`其实有点`列转行`的意味)
 
 ```python
-df = df.set_index(["声优","生日"])["作品"].str.split(",",expand=True)
-df.stack().reset_index(drop=True,level=-1).reset_index().rename(columns={0: "配音角色"})
+df = df.set index(["声优","生日"])["作品"].str.split(",",expand=True)
+df.stack().reset index(drop=True,level=-1).reset index().rename(columns={0: "配音角色"})
 ```
 
 
@@ -204,23 +204,23 @@ df
 
 方法一 内置`melt`函数
 ```python
-pd.melt(df,id_vars=["姓名","水果"],value_vars=["星期一","星期二","星期三"],var_name="星期几?",value_name="销量")
-# pd.melt(df,id_vars=["姓名","水果"],var_name="星期几?",value_name="销量") # 只指定id_vars,var_name就默认为所有其他列
+pd.melt(df,id vars=["姓名","水果"],value vars=["星期一","星期二","星期三"],var name="星期几?",value name="销量")
+# pd.melt(df,id vars=["姓名","水果"],var name="星期几?",value name="销量") # 只指定id vars,var name就默认为所有其他列
 ```
 
 方法二 用`stack`函数来实现`melt`函数
 
 ```python
-def my_melt(frame: pd.DataFrame,
-            id_vars: list,
-            value_vars: list,
-            var_name: str,
-            value_name: str):
-    # 先将id_vars和value_vars指定的字段筛选出来
-    frame = frame[id_vars + value_vars]
+def my melt(frame: pd.DataFrame,
+            id vars: list,
+            value vars: list,
+            var name: str,
+            value name: str):
+    # 先将id vars和value vars指定的字段筛选出来
+    frame = frame[id vars + value vars]
 
-    # 将id_vars指定的字段设置为索引
-    frame = frame.set_index(id_vars)
+    # 将id vars指定的字段设置为索引
+    frame = frame.set index(id vars)
     print(">>>筛选字段、设置索引之后对应的DataFrame:\n", frame)
 
     # 调用frame的stack方法, 会得到一个具有多级索引的Series
@@ -228,12 +228,12 @@ def my_melt(frame: pd.DataFrame,
     s = frame.stack()
     print(">>>得到的具有多级索引的Series:\n", s)
 
-    # 直接对该Series进行reset_index即可, 会得到DataFrame, 将索引变成列
-    frame = s.reset_index()
-    print(">>>具有多级索引的Series执行reset_index:\n", frame)
+    # 直接对该Series进行reset index即可, 会得到DataFrame, 将索引变成列
+    frame = s.reset index()
+    print(">>>具有多级索引的Series执行reset index:\n", frame)
 
     # 重命名
-    frame.columns = id_vars + [var_name, value_name]
+    frame.columns = id vars + [var name, value name]
     print(">>>最终返回的DataFrame:")
     return frame
 ```
