@@ -21,15 +21,15 @@ jobs:
         with:
             hugo-version: 'latest'
 
-      - name: install jupyter notebook
-        run: |
-          pip install --upgrade pygments
-          pip install jupyter notebook
-
-      - name: convert jupyter notebook files
-        run: |
-          python ./notebook_converter.py
-          rm ./content/post/notebook -rf
+      # - name: install jupyter notebook
+      #   run: |
+      #     pip install --upgrade pygments
+      #     pip install jupyter notebook
+      #
+      # - name: convert jupyter notebook files
+      #   run: |
+      #     python ./notebook_converter.py
+      #     rm ./content/post/notebook -rf
 
       - name: build
         run: hugo --minify

@@ -1,5 +1,6 @@
-# github python 默认 python3.8 (2022/2/10)
+# 废弃
 
+# github python 默认 python3.8 (2022/2/10)
 import nbformat
 from nbconvert import MarkdownExporter
 import time
