@@ -1,7 +1,7 @@
 ---
 title: "Linux default user has no sound"
-date: 2022-01-06T21:57:15+08:00
 hiddenFromHomePage: false
+date: 2022-01-06T21:57:15+08:00
 tags:
     - linux
 

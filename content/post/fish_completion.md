@@ -1,10 +1,10 @@
 ---
 title: "Fish completion"
 date: 2021-12-17T11:25:28+08:00
-draft: false
 tags:
     - linux
     - fish
+draft: false
 ---
 
 ```fish
