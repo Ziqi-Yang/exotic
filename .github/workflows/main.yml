@@ -22,7 +22,9 @@ jobs:
             hugo-version: 'latest'
 
       - name: install jupyter notebook
-        run: pip install jupyter notebook
+        run: |
+          pip install --upgrade pygments
+          pip install jupyter notebook
 
       - name: convert jupyter notebook files
         run: |
