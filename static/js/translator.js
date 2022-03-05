@@ -1,4 +1,4 @@
-$.getScript("//cdn.bootcdn.net/ajax/libs/crypto-js/4.0.0/crypto-js.js")
+$.getScript("//cdn.jsdelivr.net/npm/crypto-js@4.1.1/crypto-js.js")
 
 var lastQuery = ""
 CMAP = {"#ffffff":0,"#f1939c":1}
