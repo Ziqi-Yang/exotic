@@ -32,3 +32,23 @@ draft: false
 | chewing gum                  | enforce                       | spitting on the street      | get you a huge fine           | flush the toilet          |
 | a debatable point            | agree to disagree on...       | a fascinating place         | the test will be a breeze     | a life saver              |
 
+
+# Unit 2
+
+| **column1**            | **column2**       | **column3**         | **column4**    | **column5**       |
+|------------------------|-------------------|---------------------|----------------|-------------------|
+| status                 | wipe out          | habitat             | threaten       | be to blame       |
+| ongoing                | impose            | extinct/ extinction | modify         | thrive            |
+| sparrow                | Florida           | chemicals           | mosquito       | wetland           |
+| destruction            | endangered        | species             | enforce        | landowner         |
+| ban                    | die out           | virtually           | teem with      | give or take      |
+| territorial/ territory | mating season     | intensly            | approach       | protective        |
+| laid-back              | sociable          | captive             | crocodile      | Iran              |
+| Myanmar                | Sir Lanka         | irrigate            | thriving       | good omen         |
+| stay alert             | dominance         | flashlight          | authority      | initiated         |
+| sustainable            | contrary to       | controversy         | undeniable     | neglect           |
+| predator               | prey on           | upkeep              | activate       | prior knowledge   |
+| legalized              | argue in favor of | argue against       | argument       | opposing argument |
+| wildlife               | conservation      | natural habitat     | cruel          | inresponsibly     |
+| illegally              | voilation         | rare                | follow the law | pros and cons     |
+
