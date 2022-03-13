@@ -49,6 +49,6 @@ draft: false
 | sustainable            | contrary to       | controversy         | undeniable     | neglect           |
 | predator               | prey on           | upkeep              | activate       | prior knowledge   |
 | legalized              | argue in favor of | argue against       | argument       | opposing argument |
-| wildlife               | conservation      | natural habitat     | cruel          | inresponsibly     |
+| wildlife               | conservation      | natural habitat     | cruel          | irresponsible     |
 | illegally              | voilation         | rare                | follow the law | pros and cons     |
 
