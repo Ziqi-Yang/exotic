@@ -50,5 +50,5 @@ draft: false
 | predator               | prey on           | upkeep              | activate       | prior knowledge   |
 | legalized              | argue in favor of | argue against       | argument       | opposing argument |
 | wildlife               | conservation      | natural habitat     | cruel          | irresponsible     |
-| illegally              | voilation         | rare                | follow the law | pros and cons     |
+| illegally              | violation         | rare                | follow the law | pros and cons     |
 
