@@ -44,7 +44,7 @@ draft: false
 | ban                    | die out           | virtually           | teem with      | give or take      |
 | territorial/ territory | mating season     | intensly            | approach       | protective        |
 | laid-back              | sociable          | captive             | crocodile      | Iran              |
-| Myanmar                | Sir Lanka         | irrigate            | thriving       | good omen         |
+| Myanmar                | Sri Lanka         | irrigate            | thriving       | good omen         |
 | stay alert             | dominance         | flashlight          | authority      | initiated         |
 | sustainable            | contrary to       | controversy         | undeniable     | neglect           |
 | predator               | prey on           | upkeep              | activate       | prior knowledge   |
