@@ -103,3 +103,4 @@ draft: false
 | treasure hunt | walk around one's neighborhood  | capture | theme song | mass appeal |
 | anticipate  | collaborate with other players | popularity | particularly | amount to... |
 | generate substantial profit |
+
