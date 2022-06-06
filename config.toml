@@ -1,7 +1,7 @@
 baseURL = "https://blog.zps1.cn"
 languageCode = "en"
 defaultContentLanguage = "en"                             # en / zh-cn / ... (This field determines which i18n file to use)
-title = "Exotic"
+title = "网站搭建测试"
 preserveTaxonomyNames = true
 enableRobotsTXT = true
 enableEmoji = true
