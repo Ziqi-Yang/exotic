@@ -104,5 +104,3 @@ draft: false
 | anticipate  | collaborate with other players | popularity | particularly | amount to... |
 | generate substantial profit |
 
-
-
